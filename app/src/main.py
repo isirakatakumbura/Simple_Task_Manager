@@ -15,7 +15,7 @@ def create_task(task: Task):
 
 @app.get("/tasks")
 def list_tasks():
-    return db.get_all_tasks()
+    return db.get_all_task()
 
 @app.get("/tasks/{task_id}")
 def get_task(task_id: int):
