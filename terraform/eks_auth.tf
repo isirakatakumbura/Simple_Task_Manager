@@ -10,5 +10,9 @@ module "eks_auth" {
     }
   ]
 
-  depends_on = [module.eks]
+  depends_on = [
+    module.eks,
+    data.aws_eks_cluster.cluster,
+    data.aws_eks_cluster_auth.cluster
+  ]
 }
