@@ -15,7 +15,6 @@ A production-ready FastAPI application deployed on Amazon EKS (Elastic Kubernete
 - [CI/CD Pipeline](#cicd-pipeline)
 - [API Documentation](#api-documentation)
 - [Monitoring and Verification](#monitoring-and-verification)
-- [Screenshots](#screenshots)
 - [Troubleshooting](#troubleshooting)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
