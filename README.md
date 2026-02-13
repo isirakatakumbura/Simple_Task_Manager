@@ -371,10 +371,6 @@ Should return:
 ```json
 {"status":"ok"}
 ```
-
-![App Health Check](images/health-check.png)
-*Screenshot: Health endpoint returning successful response*
-
 ---
 
 ## ⚙️ CI/CD Pipeline
@@ -1005,4 +1001,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ and ☕ by Isira Katakumbura**
+**Made by Isira Ketakumbura**
