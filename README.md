@@ -17,7 +17,6 @@ A production-ready FastAPI application deployed on Amazon EKS (Elastic Kubernete
 - [Monitoring and Verification](#monitoring-and-verification)
 - [Troubleshooting](#troubleshooting)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
